@@ -1,6 +1,6 @@
 # GeoSci Labs
 
-[![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/geosci-labs/master?filepath=notebooks%2Findex.ipynb)
+[![binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geoscixyz/geosci-labs/main?filepath=notebooks%2Findex.ipynb)
 [![pypi](https://img.shields.io/pypi/v/geoscilabs.svg)](https://pypi.python.org/pypi/geoscilabs)
 [![License](https://img.shields.io/github/license/geoscixyz/geosci-labs.svg)](https://github.com/geoscixyz/geosci-labs/blob/master/LICENSE)
 [![SimPEG](https://img.shields.io/badge/powered%20by-SimPEG-blue.svg)](http://simpeg.xyz)
